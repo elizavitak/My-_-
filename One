@@ -1,0 +1,25 @@
+python_fullstack_class/
+|-- module_1/
+|   |-- lesson_1/
+|   |   |-- src/
+|   |   |   |-- solution_1.py
+|   |   |   |-- solution_2.py
+|   |   |-- README.md
+|   |   |-- requirements.txt
+|   |-- lesson_2/
+|   |   |-- src/
+|   |   |   |-- solution_1.py
+|   |   |-- README.md
+|   |   |-- requirements.txt
+|   |-- ...
+|-- module_2/
+|   |-- lesson_1/
+|   |   |-- utils/
+|   |   |   |-- very_important_utils.py
+|   |   |-- src/
+|   |   |   |-- solution_1.py
+|   |   |-- README.md
+|   |   |-- requirements.txt
+|   |-- ...
+|-- README.md
+|-- .gitignore
